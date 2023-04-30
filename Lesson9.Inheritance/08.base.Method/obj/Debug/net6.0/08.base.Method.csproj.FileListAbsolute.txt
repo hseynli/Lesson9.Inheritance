@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\bin\Debug\net6.0\08.base.Method.exe
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\bin\Debug\net6.0\08.base.Method.deps.json
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\bin\Debug\net6.0\08.base.Method.runtimeconfig.json
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\bin\Debug\net6.0\08.base.Method.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\bin\Debug\net6.0\08.base.Method.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\refint\08.base.Method.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\08.base.Method.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\08.base.Method\obj\Debug\net6.0\ref\08.base.Method.dll

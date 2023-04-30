@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\bin\Debug\net6.0\10.As.exe
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\bin\Debug\net6.0\10.As.deps.json
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\bin\Debug\net6.0\10.As.runtimeconfig.json
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\bin\Debug\net6.0\10.As.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\bin\Debug\net6.0\10.As.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\refint\10.As.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\10.As.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\10.As\obj\Debug\net6.0\ref\10.As.dll

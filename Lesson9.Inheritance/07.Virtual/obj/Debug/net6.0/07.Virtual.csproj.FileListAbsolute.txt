@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\bin\Debug\net6.0\07.Virtual.exe
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\bin\Debug\net6.0\07.Virtual.deps.json
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\bin\Debug\net6.0\07.Virtual.runtimeconfig.json
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\bin\Debug\net6.0\07.Virtual.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\bin\Debug\net6.0\07.Virtual.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\refint\07.Virtual.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\07.Virtual.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\07.Virtual\obj\Debug\net6.0\ref\07.Virtual.dll

@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\bin\Debug\net6.0\12.SealedMethods.exe
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\bin\Debug\net6.0\12.SealedMethods.deps.json
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\bin\Debug\net6.0\12.SealedMethods.runtimeconfig.json
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\bin\Debug\net6.0\12.SealedMethods.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\bin\Debug\net6.0\12.SealedMethods.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\refint\12.SealedMethods.dll
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.pdb
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\12.SealedMethods.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson9.Inheritance\12.SealedMethods\obj\Debug\net6.0\ref\12.SealedMethods.dll
