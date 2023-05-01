@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\VsProjects\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson9.Inheritance\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\VsProjects\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson9.Inheritance\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\VsProjects\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson9.Inheritance\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj",
         "projectName": "01.Inheritance",
-        "projectPath": "E:\\Projects\\VsProjects\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj",
-        "packagesPath": "C:\\Users\\hseyn\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\VsProjects\\Lesson9.Inheritance\\Lesson9.Inheritance\\obj\\",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson9.Inheritance\\Lesson9.Inheritance\\Lesson9.Inheritance\\01.Inheritance.csproj",
+        "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson9.Inheritance\\Lesson9.Inheritance\\Lesson9.Inheritance\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hseyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\farid.huseynli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

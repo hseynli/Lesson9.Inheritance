@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\bin\Debug\net6.0\15.Record.exe
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\bin\Debug\net6.0\15.Record.deps.json
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\bin\Debug\net6.0\15.Record.runtimeconfig.json
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\bin\Debug\net6.0\15.Record.dll
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\bin\Debug\net6.0\15.Record.pdb
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.dll
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\refint\15.Record.dll
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.pdb
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\15.Record.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson9.Inheritance\Lesson9.Inheritance\15.Record\obj\Debug\net6.0\ref\15.Record.dll

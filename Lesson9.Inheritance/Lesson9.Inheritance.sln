@@ -3,29 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Inheritance", "Lesson9.Inheritance\01.Inheritance.csproj", "{E782426E-AD98-44CE-B8E1-8E77263F88F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Inheritance", "Lesson9.Inheritance\01.Inheritance.csproj", "{E782426E-AD98-44CE-B8E1-8E77263F88F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Inheritance", "02.Inheritance\02.Inheritance.csproj", "{ABD3B11B-D2A4-4B2A-9FFF-6D72B81D5A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Inheritance", "02.Inheritance\02.Inheritance.csproj", "{ABD3B11B-D2A4-4B2A-9FFF-6D72B81D5A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Contructors", "03.Contructors\03.Contructors.csproj", "{606F55C4-B6D5-4B0E-9722-4CDA58BC41AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Contructors", "03.Contructors\03.Contructors.csproj", "{606F55C4-B6D5-4B0E-9722-4CDA58BC41AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Constructors", "04.Constructors\04.Constructors.csproj", "{BB9C9669-10DD-4FC3-A764-A997FD7BD4B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Constructors", "04.Constructors\04.Constructors.csproj", "{BB9C9669-10DD-4FC3-A764-A997FD7BD4B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Inheritance", "05.Inheritance\05.Inheritance.csproj", "{7D714F26-BA0B-4848-A947-AED44D6E04F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Inheritance", "05.Inheritance\05.Inheritance.csproj", "{7D714F26-BA0B-4848-A947-AED44D6E04F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Inheritance", "06.Inheritance\06.Inheritance.csproj", "{1959C5DD-2249-4ABD-8AC2-5D5A256F6820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Inheritance", "06.Inheritance\06.Inheritance.csproj", "{1959C5DD-2249-4ABD-8AC2-5D5A256F6820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Virtual", "07.Virtual\07.Virtual.csproj", "{53112CEC-A62F-4E4D-BAFB-EA04CD9A132C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Virtual", "07.Virtual\07.Virtual.csproj", "{53112CEC-A62F-4E4D-BAFB-EA04CD9A132C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.base.Method", "08.base.Method\08.base.Method.csproj", "{2F8F79BB-704D-4F2A-81DA-5AD954889570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.base.Method", "08.base.Method\08.base.Method.csproj", "{2F8F79BB-704D-4F2A-81DA-5AD954889570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.IsAs", "09.IsAs\09.IsAs.csproj", "{F28FDBB1-494A-4711-8A94-A80EF20CB7D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.IsAs", "09.IsAs\09.IsAs.csproj", "{F28FDBB1-494A-4711-8A94-A80EF20CB7D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.As", "10.As\10.As.csproj", "{3861368B-0D17-47AC-9A63-28FB314A96D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.As", "10.As\10.As.csproj", "{3861368B-0D17-47AC-9A63-28FB314A96D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Sealed", "11.Sealed\11.Sealed.csproj", "{0A73490E-9AB9-48B9-A701-A6328D38EF51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Sealed", "11.Sealed\11.Sealed.csproj", "{0A73490E-9AB9-48B9-A701-A6328D38EF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SealedMethods", "12.SealedMethods\12.SealedMethods.csproj", "{14ADE227-63C0-45A6-8EA3-EFCAAAFB969B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.SealedMethods", "12.SealedMethods\12.SealedMethods.csproj", "{14ADE227-63C0-45A6-8EA3-EFCAAAFB969B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Object", "13.Object\13.Object.csproj", "{C4D5911A-8693-4B80-86FD-02E000DFB2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ToString", "14.ToString\14.ToString.csproj", "{5C50166B-6883-4C41-A519-BA31ACD4687E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Record", "15.Record\15.Record.csproj", "{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Record", "16.Record\16.Record.csproj", "{EC672FD4-594D-47E1-939F-E4181AAA534B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{14ADE227-63C0-45A6-8EA3-EFCAAAFB969B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14ADE227-63C0-45A6-8EA3-EFCAAAFB969B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14ADE227-63C0-45A6-8EA3-EFCAAAFB969B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D5911A-8693-4B80-86FD-02E000DFB2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D5911A-8693-4B80-86FD-02E000DFB2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D5911A-8693-4B80-86FD-02E000DFB2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D5911A-8693-4B80-86FD-02E000DFB2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C50166B-6883-4C41-A519-BA31ACD4687E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C50166B-6883-4C41-A519-BA31ACD4687E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C50166B-6883-4C41-A519-BA31ACD4687E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C50166B-6883-4C41-A519-BA31ACD4687E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
