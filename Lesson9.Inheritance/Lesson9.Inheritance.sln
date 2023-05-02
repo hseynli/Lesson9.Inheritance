@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Object", "13.Object\13.O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ToString", "14.ToString\14.ToString.csproj", "{5C50166B-6883-4C41-A519-BA31ACD4687E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Record", "15.Record\15.Record.csproj", "{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.Record", "15.Record\15.Record.csproj", "{D55DD6BE-0DDF-47B5-89D4-BCAD73CBBFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Record", "16.Record\16.Record.csproj", "{EC672FD4-594D-47E1-939F-E4181AAA534B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Record", "16.Record\16.Record.csproj", "{EC672FD4-594D-47E1-939F-E4181AAA534B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Tasks", "17. Tasks\17. Tasks.csproj", "{E4153347-2154-421C-A0F2-21C7B5DEF63A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC672FD4-594D-47E1-939F-E4181AAA534B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4153347-2154-421C-A0F2-21C7B5DEF63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4153347-2154-421C-A0F2-21C7B5DEF63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4153347-2154-421C-A0F2-21C7B5DEF63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4153347-2154-421C-A0F2-21C7B5DEF63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
